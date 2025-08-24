@@ -1,1 +1,1 @@
-# Project 1: My First Python Project 
+"# Project 1 - Python Example" 
